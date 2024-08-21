@@ -21,7 +21,7 @@ This is a simple CRUD (Create, Read, Update, Delete) API for managing a collecti
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/library-api.git
+git clone https://github.com/Suzal97/Book_libary_apii.git
 cd library-api
 
 # Create a virtual environment
